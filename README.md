@@ -1,2 +1,2 @@
-# Expanding-Color
-Project 1: It is a first project of 50 Projects in 50 Days Course.
+# Expanding-Color-Frontend
+This is a first project of 50 Projects in 50 Days series.
