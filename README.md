@@ -21,7 +21,7 @@ git@github.com:uttamshr10/expanding-cards.git
 
 <p align="center"><b>Default page</b></p>
 
-![Default](images/default.png)
+![Default](default.png)
 
 
 [Live Demo](https://uttamshr10.github.io/expanding-cards/)
